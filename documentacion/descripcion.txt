@@ -1,0 +1,10 @@
+Nombre del proyecto: Spa, Estética y Guardería Canina
+
+Problema:
+El negocio lleva sus registros en papel y las citas en una libreta. Las fichas de las mascotas se pierden o quedan incompletas, no hay un historial claro de los servicios que recibió cada mascota y es difícil saber qué citas hay cada día o cuánto se cobró.
+
+Objetivo:
+Crear un sistema web que digitalice los registros, las citas y los expedientes de las mascotas del spa, la estética y la guardería canina, para que el personal pueda consultar y actualizar la información de forma rápida y ordenada.
+
+Descripción del proyecto:
+El sistema permitirá registrar clientes y sus mascotas, agendar citas de baño, estética o guardería, llevar el expediente de cada mascota con su historial de servicios y vacunas, registrar los servicios y cobros, y consultar todo desde una sola plataforma, sin depender del papel.
